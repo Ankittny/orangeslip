@@ -1,0 +1,165 @@
+"	code",name,nationality,"	flag_icon",calling_code
+AF,Afghanistan,Afghan,af.png,93
+AL,Albania,Albanian,al.png,355
+DZ,Algeria,Algerian,dz.png,213
+AD,Andorra,Andorran,ad.png,376
+AO,Angola,Angolan,ao.png,244
+AG,Antigua and Barbuda,"Antiguans, Barbudans",ag.png,1268
+AR,Argentina,Argentinean,ar.png,54
+AM,Armenia,Armenian,am.png,374
+AU,Australia,Australian,au.png,61
+AT,Austria,Austrian,at.png,43
+AZ,Azerbaijan,Azerbaijani,az.png,994
+BH,Bahrain,Bahraini,bh.png,973
+BD,Bangladesh,Bangladeshi,bd.png,880
+BB,Barbados,Barbadian,bb.png,1246
+BY,Belarus,Belarusian,by.png,375
+BE,Belgium,Belgian,be.png,32
+BZ,Belize,Belizean,bz.png,501
+BJ,Benin,Beninese,bj.png,229
+BT,Bhutan,Bhutanese,bt.png,975
+BA,Bosnia and Herzegovina,"Bosnian, Herzegovinian",ba.png,387
+BW,Botswana,"Motswana (singular), Batswana (plural)",bw.png,267
+BR,Brazil,Brazilian,br.png,55
+BG,Bulgaria,Bulgarian,bg.png,359
+BF,Burkina Faso,Burkinabe,bf.png,226
+BI,Burundi,Burundian,bi.png,257
+KH,Cambodia,Cambodian,kh.png,855
+CM,Cameroon,Cameroonian,cm.png,237
+CA,Canada,Canadian,ca.png,1
+CV,Cape Verde,Cape Verdian,cv.png,238
+CF,Central African Republic,Central African,cf.png,236
+TD,Chad,Chadian,td.png,235
+CL,Chile,Chilean,cl.png,56
+CN,China,Chinese,cn.png,86
+CO,Colombia,Colombian,co.png,57
+KM,Comoros,Comoran,km.png,269
+CR,Costa Rica,Costa Rican,cr.png,506
+HR,Croatia,Croatian,hr.png,385
+CU,Cuba,Cuban,cu.png,53
+CY,Cyprus,Cypriot,cy.png,357
+CZ,Czech Republic,Czech,cz.png,420
+DK,Denmark,Danish,dk.png,45
+DJ,Djibouti,Djibouti,dj.png,253
+DM,Dominica,Dominican,dm.png,1767
+DO,Dominican Republic,Dominican,do.png,1809
+EC,Ecuador,Ecuadorean,ec.png,593
+EG,Egypt,Egyptian,eg.png,20
+SV,El Salvador,Salvadoran,sv.png,503
+GQ,Equatorial Guinea,Equatorial Guinean,gq.png,240
+ER,Eritrea,Eritrean,er.png,291
+EE,Estonia,Estonian,ee.png,372
+ET,Ethiopia,Ethiopian,et.png,251
+FJ,Fiji,Fijian,fj.png,679
+FI,Finland,Finnish,fi.png,358
+FR,France,French,fr.png,33
+GA,Gabon,Gabonese,ga.png,241
+GE,Georgia,Georgian,ge.png,995
+DE,Germany,German,de.png,49
+GH,Ghana,Ghanaian,gh.png,233
+GR,Greece,Greek,gr.png,30
+GD,Grenada,Grenadian,gd.png,1473
+GT,Guatemala,Guatemalan,gt.png,502
+GN,Guinea,Guinean,gn.png,224
+GW,Guinea-Bissau,Guinea-Bissauan,gw.png,245
+GY,Guyana,Guyanese,gy.png,592
+HT,Haiti,Haitian,ht.png,509
+HN,Honduras,Honduran,hn.png,504
+HU,Hungary,Hungarian,hu.png,36
+IS,Iceland,Icelander,is.png,354
+IN,India,Indian,in.png,91
+ID,Indonesia,Indonesian,id.png,62
+IQ,Iraq,Iraqi,iq.png,964
+IE,Ireland,Irish,ie.png,353
+IL,Israel,Israeli,il.png,972
+IT,Italy,Italian,it.png,39
+JM,Jamaica,Jamaican,jm.png,1876
+JP,Japan,Japanese,jp.png,81
+JO,Jordan,Jordanian,jo.png,962
+KZ,Kazakhstan,Kazakhstani,kz.png,76
+KE,Kenya,Kenyan,ke.png,254
+KI,Kiribati,I-Kiribati,ki.png,686
+KW,Kuwait,Kuwaiti,kw.png,965
+LV,Latvia,Latvian,lv.png,371
+LB,Lebanon,Lebanese,lb.png,961
+LS,Lesotho,Mosotho,ls.png,266
+LR,Liberia,Liberian,lr.png,231
+LI,Liechtenstein,Liechtensteiner,li.png,423
+LT,Lithuania,Lithuanian,lt.png,370
+LU,Luxembourg,Luxembourger,lu.png,370
+MG,Madagascar,Malagasy,mg.png,261
+MW,Malawi,Malawian,mw.png,265
+MY,Malaysia,Malaysian,my.png,60
+MV,Maldives,Maldivan,mv.png,960
+ML,Mali,Malian,ml.png,223
+MT,Malta,Maltese,mt.png,356
+MH,Marshall Islands,Marshallese,mh.png,692
+MR,Mauritania,Mauritanian,mr.png,222
+MU,Mauritius,Mauritian,mu.png,230
+MX,Mexico,Mexican,mx.png,52
+MC,Monaco,Monegasque,mc.png,377
+MN,Mongolia,Mongolian,mn.png,976
+MA,Morocco,Moroccan,ma.png,212
+MZ,Mozambique,Mozambican,mz.png,258
+NA,Namibia,Namibian,na.png,264
+NR,Nauru,Nauruan,nr.png,674
+NP,Nepal,Nepalese,np.png,977
+NL,Netherlands,Dutch,nl.png,31
+NZ,New Zealand,New Zealander,nz.png,64
+NI,Nicaragua,Nicaraguan,ni.png,505
+NE,Niger,Nigerien,ne.png,227
+NG,Nigeria,Nigerian,ng.png,234
+NO,Norway,Norwegian,no.png,47
+OM,Oman,Omani,om.png,968
+PK,Pakistan,Pakistani,pk.png,92
+PW,Palau,Palauan,pw.png,680
+PA,Panama,Panamanian,pa.png,507
+PG,Papua New Guinea,Papua New Guinean,pg.png,675
+PY,Paraguay,Paraguayan,py.png,595
+PE,Peru,Peruvian,pe.png,51
+PH,Philippines,Filipino,ph.png,63
+PL,Poland,Polish,pl.png,48
+PT,Portugal,Portuguese,pt.png,351
+QA,Qatar,Qatari,qa.png,974
+RO,Romania,Romanian,ro.png,40
+RW,Rwanda,Rwandan,rw.png,250
+KN,Saint Kitts and Nevis,Kittian and Nevisian,kn.png,1869
+LC,Saint Lucia,Saint Lucian,lc.png,1758
+WS,Samoa,Samoan,ws.png,685
+SM,San Marino,Sammarinese,sm.png,378
+ST,Sao Tome and Principe,Sao Tomean,st.png,239
+SA,Saudi Arabia,Saudi Arabian,sa.png,966
+SN,Senegal,Senegalese,sn.png,221
+SC,Seychelles,Seychellois,sc.png,248
+SL,Sierra Leone,Sierra Leonean,sl.png,232
+SG,Singapore,Singaporean,sg.png,65
+SK,Slovakia,Slovak,sk.png,421
+SI,Slovenia,Slovene,si.png,386
+SB,Solomon Islands,Solomon Islander,sb.png,677
+SO,Somalia,Somali,so.png,252
+ZA,South Africa,South African,za.png,27
+ES,Spain,Spanish,es.png,34
+LK,Sri Lanka,Sri Lankan,lk.png,94
+SD,Sudan,Sudanese,sd.png,249
+SR,Suriname,Surinamer,sr.png,597
+SZ,Swaziland,Swazi,sz.png,268
+SE,Sweden,Swedish,se.png,46
+CH,Switzerland,Swiss,ch.png,41
+TJ,Tajikistan,Tadzhik,tj.png,992
+TH,Thailand,Thai,th.png,66
+TG,Togo,Togolese,tg.png,228
+TO,Tonga,Tongan,to.png,676
+TT,Trinidad and Tobago,Trinidadian,tt.png,1868
+TN,Tunisia,Tunisian,tn.png,216
+TR,Turkey,Turkish,tr.png,90
+TM,Turkmenistan,Turkmen,tm.png,993
+TV,Tuvalu,Tuvaluan,tv.png,688
+UG,Uganda,Ugandan,ug.png,256
+UA,Ukraine,Ukrainian,ua.png,380
+AE,United Arab Emirates,Emirian,ae.png,971
+GB,United Kingdom,British,gb.png,44
+US,United States,American,us.png,1
+UY,Uruguay,Uruguayan,uy.png,598
+VN,Vietnam,Vietnamese,vn.png,84
+KR,Korea,Korean,kr.png,850
+SKR,South Korea,South Korean,skr.png,82
